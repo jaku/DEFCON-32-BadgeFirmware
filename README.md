@@ -16,7 +16,7 @@ These are the easiest firmwares to flash because you don't have to deal with SD 
 
 <img src="https://github.com/user-attachments/assets/8c55bb0a-cdf2-487a-9784-131a514d19d8" alt="badge" width="400"/>
 
-If you did everything right and you're on an OS that can actually mount USB devices automatically, you'll see a new disk pop up. Take the UF2 firmware you downloaded and drag it onto the mounted disk. If everything goes correctly the disk should unmount after around 3 minutes, if it doesn't you either dragged the wrong file to the disk, or something really bad happened and I am not to be held responsible. You do this at your own risk. Remember to always read everything before starting.
+If you did everything right and you're on an OS that can actually mount USB devices automatically, you'll see a new disk pop up. Take the UF2 firmware you downloaded and drag it onto the mounted disk. If everything goes correctly the disk should unmount after around 3-6 minutes depending on the filesize, if it doesn't you either dragged the wrong file to the disk, or something really bad happened and I am not to be held responsible. You do this at your own risk. Remember to always read everything before starting.
 
 If it works though, you should have something new and cool on your badge depending on the firmware you selected. 
 
