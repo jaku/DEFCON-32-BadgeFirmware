@@ -33,10 +33,11 @@ If you flash a ROM that is 2MB it may prevent you from loading other ROMs from t
 ## Resources
 
 https://defcon.org/badge/32
+
 https://badge.spux.art/
 
 # TAG ME
-If you enjoyed this tag me @jaku, use hashtags #DEFCON32 #DEFROM along with any images of custom ROMs you're running! Also please follow me for other cool game related stuff like @crowdcontrol!
+If you enjoyed this tag me [@jaku](https://twitter.com/jaku), use hashtags #DEFCON32 #DEFROM along with any images of custom ROMs you're running! Also please follow me for other cool game related stuff like [@crowdcontrol](https://twitter.com/crowdcontrol)!
 
 
 Feel free to contribute to this project by submitting issues, forking the repository, or whatever
