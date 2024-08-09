@@ -12,7 +12,9 @@ We have 2 different types of firmware available so if you end up bricking your b
 
 
 ### UF2 Firmware
-These are the easiest firmwares to flash because you don't have to deal with SD card issues, and you don't have to go digging for a SD card. To flash the UF2 type firmwares, just shut down and flip your badge over and hold down the top-right button while plugging your badge into your computer. Do NOT have your badge powered up. The badge will automatically power up when you plug it in.
+These are the easiest firmwares to flash because you don't have to deal with SD card issues, and you don't have to go digging for a SD card. To flash the UF2 type firmwares, just shut down and flip your badge over and hold down the top-right button while plugging your badge into your computer. (See the below photo for the correct button) Do NOT have your badge powered up. The badge will automatically power up when you plug it in. 
+
+![badge](https://github.com/user-attachments/assets/8c55bb0a-cdf2-487a-9784-131a514d19d8)
 
 If you did everything right and you're on an OS that can actually mount USB devices automatically, you'll see a new disk pop up. Take the UF2 firmware you downloaded and drag it onto the mounted disk. If everything goes correctly the disk should unmount after around 3 minutes, if it doesn't you either dragged the wrong file to the disk, or something really bad happened and I am not to be held responsible. You do this at your own risk. Remember to always read everything before starting.
 
