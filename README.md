@@ -1,6 +1,6 @@
 # DEFCON 32 Firmware
 
-Here, you'll find a collection of custom firmwares.
+Here, you'll find a collection of custom firmware.
 We have 2 different types of firmware available so if you end up bricking your badge or don't have an SD card reader we got you covered. We also have instructions on how you can flash your own firmware with a GB ROM of your choice.
 
 ## Available Firmware
