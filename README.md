@@ -10,6 +10,7 @@ We have 2 different types of firmware available so if you end up bricking your b
 - AllItems - Gives you all the items, QR codes, pictures, and cats in the DEFCON game. Using or sending items does not remove them from your inventory
 - Original - Restores the badge to it's original firmware
 
+Firmware files can be found at https://github.com/jaku/DEFCON-32-BadgeFirmware/tree/main/firmware, currently the latest firmware version is v1.5.
 
 ### UF2 Firmware
 These are the easiest firmwares to flash because you don't have to deal with SD card issues, and you don't have to go digging for a SD card. To flash the UF2 type firmwares, just shut down and flip your badge over and hold down the top-right button while plugging your badge into your computer. (See the below photo for the correct button) Do NOT have your badge powered up. The badge will automatically power up when you plug it in. 
